@@ -1,0 +1,19 @@
+# tvbanywherena软件
+# 匹配域名后缀
+DOMAIN-SUFFIX,tvbanywherena.com
+DOMAIN-SUFFIX,us-central1-encoretvb-firetv-chinese.cloudfunctions.net
+DOMAIN-SUFFIX,us-central1-tvbaw-na-backend.cloudfunctions.net
+DOMAIN-SUFFIX,cf-images.us-east-1.prod.boltdns.net
+DOMAIN-SUFFIX,bcbolt446c5271-a.akamaihd.net
+DOMAIN-SUFFIX,manifest.prod.boltdns.net
+DOMAIN-SUFFIX,metrics.brightcove.com
+DOMAIN-SUFFIX,edge.api.brightcove.com
+DOMAIN-SUFFIX,tvbaw-na.s3.us-west-1.amazonaws.com
+DOMAIN-SUFFIX,img.tvbaw.com
+DOMAIN-SUFFIX,bcovlive-a.akamaihd.net
+DOMAIN-SUFFIX,encoretvb-app.s3-us-west-1.amazonaws.com
+DOMAIN-SUFFIX,pmv4k0zsuc.execute-api.us-west-2.amazonaws.com
+
+# 地面波
+# 匹配域名后缀
+DOMAIN-SUFFIX,live.hkdvb.com
