@@ -1,3 +1,4 @@
+#ViuTV
 DOMAIN-SUFFIX,viu.tv
 DOMAIN-SUFFIX,static.viu.tv
 DOMAIN-SUFFIX,api.viu.now.com
@@ -8,3 +9,6 @@ DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,cdn.viu.com
 DOMAIN-SUFFIX,api.viu.com
 DOMAIN-SUFFIX,auth.viu.com
+#HOY软件
+DOMAIN-SUFFIX,hoy.tv
+DOMAIN-SUFFIX,hkai.io
